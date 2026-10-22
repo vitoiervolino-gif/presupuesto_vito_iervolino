@@ -1,5 +1,4 @@
-import os
-os.system("pip install fpdf2")
+
 import streamlit as st
 import mi_negocio
 import calculos
