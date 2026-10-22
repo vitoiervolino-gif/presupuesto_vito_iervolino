@@ -1,0 +1,8 @@
+[theme]
+base = "dark"                # "light" o "dark"
+primaryColor = "#EAEFD3"     # botones, radio
+backgroundColor = "#1d1d1c"  # fondo
+secondaryBackgroundColor = "#002d68"
+textColor = "#f9f6f4"        # texto
+font = "sans-serif"          # o serif, monospace
+baseRadius = "full"          # esquinas
